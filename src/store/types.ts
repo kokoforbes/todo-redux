@@ -7,6 +7,6 @@ export interface Todo {
 }
 
 export interface Store {
-  todo: Todo[],
+  todos: Todo[],
   newTodo: string
 }

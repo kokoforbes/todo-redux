@@ -1,4 +1,4 @@
-import { ThunkAction } from "redux-thunk";
+// import { ThunkAction } from "redux-thunk";
 import { Todo } from "./types"
 
 export const ADD_TODO = "ADD_TODO";
